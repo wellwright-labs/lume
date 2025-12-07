@@ -2,10 +2,6 @@
 
 A composable, visual, testable authoring platform for interactive fiction.
 
-From [Wellwright](https://wellwright.dev).
-
----
-
 ## The idea
 
 IF is wonderful, but I wish there was more powerful tooling. Twine gives you a visual editor that falls apart at scale. Ink gives you power but no visibility into structure. Neither has collaboration, testing, or real debugging tools.
